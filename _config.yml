@@ -24,8 +24,13 @@ github_username: igorkaluga
 
 # Build settings
 markdown: kramdown
+
+#Personal config
 hide_search: true
 hide_credits: true
+
+show_excerpts: true
+excerpt_length: 20
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
